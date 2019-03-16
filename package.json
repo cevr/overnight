@@ -1,12 +1,25 @@
 {
     "name": "overnight",
     "displayName": "Overnight",
-    "description": "Vibrant color theme adapted from Sarah Drasner's Night Owl & Dan Abramov's fork from Overreacted",
+    "description": "A soft, vibrant color theme adapted from Sarah Drasner's Night Owl & Dan Abramov's fork from Overreacted",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cevr/overnight"
+    },
     "engines": {
         "vscode": "^1.32.0"
     },
     "publisher": "cev",
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Night Owl",
+        "Overnight",
+        "Overreacted",
+        "Night Theme",
+        "Accessible Theme"
+    ],
     "categories": [
         "Themes"
     ],
@@ -18,5 +31,9 @@
                 "path": "./themes/Overnight-color-theme.json"
             }
         ]
+    },
+    "icon": "icon.ico",
+    "scripts": {
+        "publish": "vsce publish"
     }
 }
