@@ -36,7 +36,7 @@
             }
         ]
     },
-    "icon": "icon.ico",
+    "icon": "icon.png",
     "scripts": {
         "publish": "vsce publish"
     }
