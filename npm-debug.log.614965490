@@ -1,0 +1,76 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/11.11.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'show',
+1 verbose cli   'vsce',
+1 verbose cli   'version' ]
+2 info using npm@3.10.10
+3 info using node@v11.11.0
+4 silly mapToRegistry name vsce
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry https://registry.npmjs.org/
+7 silly mapToRegistry data Result {
+7 silly mapToRegistry   raw: 'vsce',
+7 silly mapToRegistry   scope: null,
+7 silly mapToRegistry   escapedName: 'vsce',
+7 silly mapToRegistry   name: 'vsce',
+7 silly mapToRegistry   rawSpec: '',
+7 silly mapToRegistry   spec: 'latest',
+7 silly mapToRegistry   type: 'tag' }
+8 silly mapToRegistry uri https://registry.npmjs.org/vsce
+9 verbose request uri https://registry.npmjs.org/vsce
+10 verbose request no auth needed
+11 info attempt registry request try #1 at 3:39:30 PM
+12 verbose request using bearer token for auth
+13 verbose request id cb054b3cc0a9ec0d
+14 verbose etag W/"516816c083d42b7a0aeaac0555e9f1bc"
+15 verbose lastModified Mon, 11 Mar 2019 06:50:11 GMT
+16 http request GET https://registry.npmjs.org/vsce
+17 http 304 https://registry.npmjs.org/vsce
+18 verbose headers { date: 'Sat, 16 Mar 2019 19:39:30 GMT',
+18 verbose headers   connection: 'keep-alive',
+18 verbose headers   'set-cookie':
+18 verbose headers    [ '__cfduid=d87839a106ec7f95ee68b605e812f80911552765170; expires=Sun, 15-Mar-20 19:39:30 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+18 verbose headers   'cf-cache-status': 'HIT',
+18 verbose headers   'cache-control': 'max-age=300',
+18 verbose headers   'cf-ray': '4b89318e3ff2ccd0-EWR',
+18 verbose headers   etag: '"516816c083d42b7a0aeaac0555e9f1bc"',
+18 verbose headers   'expect-ct':
+18 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+18 verbose headers   'last-modified': 'Mon, 11 Mar 2019 06:50:11 GMT',
+18 verbose headers   vary: 'accept-encoding, accept',
+18 verbose headers   'x-amz-meta-rev': '111-1de2c38f503663b31d860a2fa3b761ab',
+18 verbose headers   server: 'cloudflare' }
+19 silly get cb [ 304,
+19 silly get   { date: 'Sat, 16 Mar 2019 19:39:30 GMT',
+19 silly get     connection: 'keep-alive',
+19 silly get     'set-cookie':
+19 silly get      [ '__cfduid=d87839a106ec7f95ee68b605e812f80911552765170; expires=Sun, 15-Mar-20 19:39:30 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+19 silly get     'cf-cache-status': 'HIT',
+19 silly get     'cache-control': 'max-age=300',
+19 silly get     'cf-ray': '4b89318e3ff2ccd0-EWR',
+19 silly get     etag: '"516816c083d42b7a0aeaac0555e9f1bc"',
+19 silly get     'expect-ct':
+19 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+19 silly get     'last-modified': 'Mon, 11 Mar 2019 06:50:11 GMT',
+19 silly get     vary: 'accept-encoding, accept',
+19 silly get     'x-amz-meta-rev': '111-1de2c38f503663b31d860a2fa3b761ab',
+19 silly get     server: 'cloudflare' } ]
+20 verbose etag https://registry.npmjs.org/vsce from cache
+21 verbose get saving vsce to /Users/cev/.npm/registry.npmjs.org/vsce/.cache.json
+22 verbose correctMkdir /Users/cev/.npm correctMkdir not in flight; initializing
+23 verbose exit [ 0, true ]
+24 verbose stack Error: write EPIPE
+24 verbose stack     at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:66:16)
+25 verbose cwd /Users/cev/Projects/personal/vscode/overnight
+26 error Darwin 18.2.0
+27 error argv "/usr/local/Cellar/node/11.11.0/bin/node" "/usr/local/bin/npm" "show" "vsce" "version"
+28 error node v11.11.0
+29 error npm  v3.10.10
+30 error code EPIPE
+31 error errno EPIPE
+32 error syscall write
+33 error write EPIPE
+34 error If you need help, you may report this error at:
+34 error     <https://github.com/npm/npm/issues>
+35 verbose exit [ 1, true ]
