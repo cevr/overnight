@@ -878,7 +878,7 @@
             "name": "Backtics(``) in Template Strings",
             "scope": "string.template punctuation.definition.string",
             "settings": {
-                "foreground": "#ced2d6"
+                "foreground": "#c792ea"
             }
         },
         {
