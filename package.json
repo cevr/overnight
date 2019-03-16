@@ -10,6 +10,10 @@
     "engines": {
         "vscode": "^1.32.0"
     },
+    "galleryBanner": {
+        "color": "#061526",
+        "theme": "dark"
+    },
     "publisher": "cev",
     "keywords": [
         "Theme",
