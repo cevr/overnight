@@ -244,7 +244,8 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#637777"
+                "foreground": "#637777",
+                "fontStyle": ""
             }
         },
         {
@@ -258,7 +259,7 @@
             "name": "String Quoted",
             "scope": ["string.quoted", "variable.other.readwrite.js"],
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#ecc48d"
             }
         },
         {
@@ -322,7 +323,8 @@
             "name": "Keyword",
             "scope": ["punctuation.accessor", "keyword"],
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -350,7 +352,6 @@
             "name": "Storage type",
             "scope": "storage.type.function.arrow.js",
             "settings": {
-                "foreground": "#c792ea",
                 "fontStyle": ""
             }
         },
@@ -406,6 +407,7 @@
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name",
             "settings": {
+                "fontStyle": "",
                 "foreground": "#a3c76e"
             }
         },
@@ -472,7 +474,8 @@
             "name": "Keyword Operator Relational",
             "scope": "keyword.operator.relational",
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -533,7 +536,7 @@
         },
         {
             "name": "Meta Brace",
-            "scope": ["meta.brace"],
+            "scope": "meta.brace",
             "settings": {
                 "foreground": "#c792ea"
             }
@@ -542,7 +545,8 @@
             "name": "Meta Delimiter Period",
             "scope": "meta.delimiter.period",
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -619,7 +623,8 @@
             "name": "Meta Selector",
             "scope": "meta.selector",
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -640,7 +645,8 @@
             "name": "Doctypes",
             "scope": ["entity.name.tag.doctype", "meta.tag.sgml.doctype"],
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -690,7 +696,8 @@
             "name": "Variable Property Other object property",
             "scope": ["variable.other.object.property"],
             "settings": {
-                "foreground": "#ced2d6"
+                "foreground": "#ced2d6",
+                "fontStyle": ""
             }
         },
         {
@@ -901,7 +908,8 @@
             "name": "Quote",
             "scope": "quote",
             "settings": {
-                "foreground": "#697098"
+                "foreground": "#697098",
+                "fontStyle": ""
             }
         },
         {
@@ -1037,7 +1045,8 @@
             "name": "Elixir Binary Punctuations",
             "scope": "source.elixir .punctuation.binary.elixir",
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -1091,7 +1100,8 @@
             "name": "HTML Doctype",
             "scope": "meta.tag.sgml.doctype.html",
             "settings": {
-                "foreground": "#c792ea"
+                "foreground": "#c792ea",
+                "fontStyle": ""
             }
         },
         {
@@ -1300,7 +1310,8 @@
             "name": "Markdown Quote + others",
             "scope": "markup.quote.markdown",
             "settings": {
-                "foreground": "#697098"
+                "foreground": "#697098",
+                "fontStyle": ""
             }
         },
         {
@@ -1612,8 +1623,8 @@
                 "keyword.operator.type",
                 "keyword.operator",
                 "keyword",
-                "punctuation",
                 "punctuation.definintion.string",
+                "punctuation",
                 "variable.other.readwrite.js",
                 "storage.type",
                 "source.css",
