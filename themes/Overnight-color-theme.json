@@ -286,7 +286,7 @@
         },
         {
             "name": "User-defined constant",
-            "scope": ["constant.character", "constant.other"],
+            "scope": ["constant.character", "constant.other", "constant.language.undefined"],
             "settings": {
                 "foreground": "#ffa7c4"
             }
