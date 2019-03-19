@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.3.3]
+
+-   Update README with correct screenshots
+
 ## [1.3.2]
 
 -   Add italic to tag attributes

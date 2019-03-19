@@ -8,8 +8,8 @@ A soft, yet vibrant theme based on [Sarah Drasner's Night Owl](https://marketpla
 
 ## React
 
-![React](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react.png)
+![React](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react-screenshot.png)
 
 ## React Italics
 
-![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react-italics.png)
+![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react-italics-screenshot.png)
