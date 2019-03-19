@@ -2,6 +2,12 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.3.4]
+
+### Added
+
+-   Comments are italicized in italics theem
+
 ## [1.3.3]
 
 -   Update README with correct screenshots

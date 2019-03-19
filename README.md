@@ -12,4 +12,4 @@ A soft, yet vibrant theme based on [Sarah Drasner's Night Owl](https://marketpla
 
 ## React Italics
 
-![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react-italics-screenshot.png)
+![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/react-italics.png)
