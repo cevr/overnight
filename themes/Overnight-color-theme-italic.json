@@ -411,8 +411,8 @@
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "fontStyle": "",
-                "foreground": "#a3c76e"
+                "foreground": "#a3c76e",
+                "fontStyle": "italic"
             }
         },
         {

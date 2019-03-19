@@ -4,7 +4,7 @@ A soft, yet vibrant theme based on [Sarah Drasner's Night Owl](https://marketpla
 
 ## HTML
 
-![HTML](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/html.png)
+![HTML](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/html-screenshot.png)
 
 ## React
 
