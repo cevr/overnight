@@ -33,6 +33,11 @@
                 "label": "Overnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Overnight-color-theme.json"
+            },
+            {
+                "label": "Overnight Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Overnight-color-theme-italic.json"
             }
         ]
     },
