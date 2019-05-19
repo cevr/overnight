@@ -2,6 +2,12 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.3.5]
+
+### Changed
+
+-   Made sidebar contrast more apparent
+
 ## [1.3.4]
 
 ### Added
