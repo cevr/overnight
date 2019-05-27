@@ -4,7 +4,7 @@
     "colors": {
         "foreground": "#BBC1CD",
         "descriptionForeground": "#758096",
-        "errorForeground": "#FFA2A2",
+        "errorForeground": "#f87086",
         "focusBorder": "#26334C",
         "selection.background": "#26334CCC",
         "walkThrough.embeddedEditorBackground": "#0A1222",
@@ -27,8 +27,8 @@
         "input.foreground": "#BBC1CD",
         "input.placeholderForeground": "#8A94A8",
         "inputOption.activeBorder": "#9AC6F2",
-        "inputValidation.errorBackground": "#FFA2A2",
-        "inputValidation.errorBorder": "#FFA2A2",
+        "inputValidation.errorBackground": "#f87086",
+        "inputValidation.errorBorder": "#f87086",
         "inputValidation.errorForeground": "#330F0F",
         "inputValidation.infoBackground": "#9AC6F2",
         "inputValidation.infoBorder": "#9AC6F2",
@@ -54,12 +54,12 @@
         "list.inactiveSelectionBackground": "#162137",
         "list.inactiveSelectionForeground": "#BBC1CD",
         "list.inactiveFocusBackground": "#0E1729",
-        "list.invalidItemForeground": "#FFA2A2",
-        "list.errorForeground": "#FFA2A2",
+        "list.invalidItemForeground": "#f87086",
+        "list.errorForeground": "#f87086",
         "list.warningForeground": "#ecc48d",
         "listFilterWidget.background": "#1B273E",
         "listFilterWidget.outline": "#202C45",
-        "listFilterWidget.noMatchesOutline": "#FFA2A2",
+        "listFilterWidget.noMatchesOutline": "#f87086",
         "activityBar.background": "#070E1B",
         "activityBar.dropBackground": "#050A14",
         "activityBar.foreground": "#616C84",
@@ -149,11 +149,11 @@
         "editorOverviewRuler.infoForeground": "#92D8E6",
         "editorOverviewRuler.warningForeground": "#ecc48d",
         "editorOverviewRuler.deletedForeground": "#F2B09A",
-        "editorOverviewRuler.errorForeground": "#FFA2A2",
+        "editorOverviewRuler.errorForeground": "#f87086",
         "editorOverviewRuler.commonContentForeground": "#26334C",
         "editorOverviewRuler.currentContentForeground": "#9AC6F2",
         "editorOverviewRuler.incomingContentForeground": "#BBD99E",
-        "editorError.foreground": "#FFA2A2",
+        "editorError.foreground": "#f87086",
         "editorHint.foreground": "#C1A2FF",
         "editorInfo.foreground": "#92D8E6",
         "editorWarning.foreground": "#ecc48d",
@@ -163,7 +163,7 @@
         "editorGutter.deletedBackground": "#F2B09A",
         "editorGutter.commentRangeForeground": "#8A94A8",
         "diffEditor.insertedTextBackground": "#BBD99E1A",
-        "diffEditor.removedTextBackground": "#FFA2A21A",
+        "diffEditor.removedTextBackground": "#f870861A",
         "diffEditor.border": "#0A1222",
         "editorWidget.background": "#162137",
         "editorWidget.border": "#1B273E",
@@ -262,7 +262,7 @@
         "terminal.ansiBrightGreen": "#C9E2AF",
         "terminal.ansiMagenta": "#C1A2FF",
         "terminal.ansiBrightMagenta": "#CCB3FF",
-        "terminal.ansiRed": "#FFA2A2",
+        "terminal.ansiRed": "#f87086",
         "terminal.ansiBrightRed": "#FFB3B3",
         "terminal.ansiYellow": "#ecc48d",
         "terminal.ansiBrightYellow": "#ecc48d",
@@ -279,10 +279,10 @@
         "welcomePage.buttonHoverBackground": "#162137",
         "gitDecoration.addedResourceForeground": "#BBD99E",
         "gitDecoration.modifiedResourceForeground": "#9AC6F2",
-        "gitDecoration.deletedResourceForeground": "#FFA2A2",
+        "gitDecoration.deletedResourceForeground": "#f87086",
         "gitDecoration.untrackedResourceForeground": "#BBD99E",
         "gitDecoration.ignoredResourceForeground": "#616C84",
-        "gitDecoration.conflictingResourceForeground": "#FFA2A2",
+        "gitDecoration.conflictingResourceForeground": "#f87086",
         "gitDecoration.submoduleResourceForeground": "#8A94A8",
         "settings.headerForeground": "#D6D9E0",
         "settings.modifiedItemIndicator": "#ecc48d",
@@ -631,7 +631,7 @@
             "name": "Null",
             "scope": "constant.language.null",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
@@ -660,14 +660,14 @@
             "name": "Punctuation Definition String Markdown",
             "scope": "punctuation.definition.string.begin.markdown",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
             "name": "Boolean",
             "scope": "constant.language.boolean",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
@@ -1193,7 +1193,7 @@
             "name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
             "scope": ["source.go constant.language.go", "source.go constant.other.placeholder.go"],
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
@@ -1214,7 +1214,7 @@
             "name": "C++ Language Primitive Storage",
             "scope": ["storage.type.language.primitive.cpp"],
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
@@ -1366,7 +1366,7 @@
             "name": "JSON Property Names",
             "scope": "support.type.property-name.json",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1380,7 +1380,7 @@
             "name": "JSON Property values (string)",
             "scope": "meta.structure.dictionary.value.json string.quoted.double",
             "settings": {
-                "foreground": "#c789d6"
+                "foreground": "#ecc48d"
             }
         },
         {
@@ -1394,7 +1394,7 @@
             "name": "Specific JSON Property values like null",
             "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
@@ -1581,7 +1581,7 @@
             "name": "Language Constants in Python",
             "scope": "constant.language.python",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#f87086"
             }
         },
         {
