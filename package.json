@@ -2,7 +2,7 @@
     "name": "overnight",
     "displayName": "Overnight",
     "description": "A soft, vibrant color theme adapted from Sarah Drasner's Night Owl & Dan Abramov's fork from Overreacted",
-    "version": "1.3.5",
+    "version": "1.5.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/cevr/overnight"
@@ -38,6 +38,16 @@
                 "label": "Overnight Italics",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Overnight-color-theme-italic.json"
+            },
+            {
+                "label": "Overnight Slumber",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Overnight-Slumber.json"
+            },
+            {
+                "label": "Overnight Slumber Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Overnight-Slumber-italic.json"
             }
         ]
     },

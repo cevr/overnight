@@ -2,6 +2,16 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.5.0]
+
+### Added
+
+-   Two new themes: Overnight Slumber & Overnight Slumber Italics. A more pastel wash with purple hues and bright highlights
+
+## [1.4.0]
+
+-   Italics are much less invasive, now mainly affecting keywords and comments
+
 ## [1.3.5]
 
 ### Changed
