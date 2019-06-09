@@ -858,10 +858,17 @@
         },
         {
             "name": "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
-            "scope": ["keyword.other.special-method", "keyword.other.new", "keyword.other.debugger", "keyword.control"],
+            "scope": ["keyword.other.special-method", "keyword.other.new", "keyword.other.debugger", "keyword.other"],
             "settings": {
                 "foreground": "#ffa7c4",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "other keywords",
+            "scope": "keyword.control",
+            "settings": {
+                "foreground": "#ffa7c4"
             }
         },
         {

@@ -2,6 +2,11 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.5.2]
+
+-   Fixed an issue that certain keywords would be italicized in Overnight Slumber theme
+
+
 ## [1.5.1]
 
 -   Tuned down the dark red and darkened the light red colors for the Overnight Slumber theme

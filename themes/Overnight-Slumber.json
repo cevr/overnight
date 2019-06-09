@@ -865,7 +865,8 @@
                 "keyword.other.special-method",
                 "keyword.other.new",
                 "keyword.other.debugger",
-                "keyword.control"
+                "keyword.control",
+                "keyword.other"
             ],
             "settings": {
                 "foreground": "#ffa7c4"
