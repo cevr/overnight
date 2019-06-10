@@ -507,7 +507,7 @@
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#a3c76e",
+                "foreground": "#c792ea",
                 "fontStyle": "italic"
             }
         },
@@ -681,6 +681,13 @@
             "settings": {
                 "foreground": "#ffa7c4",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "Variable Parameter Js",
+            "scope": "variable.parameter.js",
+            "settings": {
+                "fontStyle": "italic"
             }
         },
         {
@@ -858,7 +865,13 @@
         },
         {
             "name": "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
-            "scope": ["keyword.other.special-method", "keyword.other.new", "keyword.other.debugger", "keyword.other"],
+            "scope": [
+                "keyword.other.special-method",
+                "keyword.other.new",
+                "keyword.other.debugger",
+                "keyword.other",
+                "keyword.control"
+            ],
             "settings": {
                 "foreground": "#ffa7c4",
                 "fontStyle": "italic"
@@ -866,9 +879,10 @@
         },
         {
             "name": "other keywords",
-            "scope": "keyword.control",
+            "scope": ["message.error"],
             "settings": {
-                "foreground": "#ffa7c4"
+                "foreground": "#ffa7c4",
+                "fontStyle": ""
             }
         },
         {

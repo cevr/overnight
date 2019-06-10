@@ -2,10 +2,13 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.6.0]
+
+-   Changed JSX tag attribute color to match JSON scheme
+
 ## [1.5.2]
 
 -   Fixed an issue that certain keywords would be italicized in Overnight Slumber theme
-
 
 ## [1.5.1]
 
