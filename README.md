@@ -4,60 +4,16 @@ A soft, yet vibrant theme based on [Sarah Drasner's Night Owl](https://marketpla
 
 ## Overnight
 
-### HTML
+![Overnight](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight.png)
 
-![HTML](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-html.png)
+### Italics
 
-### HTML Italics
-
-![HTML Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-italics-html.png)
-
-### React
-
-![React](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-react.png)
-
-### React Italics
-
-![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-italics-react.png)
-
-### CSS
-
-![CSS](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-css.png)
-
-### CSS Italics
-
-![CSS Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-italics-css.png)
-
-### JSON
-
-![JSON](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-json.png)
+![Overnight Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-italics.png)
 
 ## Overnight Slumber
 
-### HTML
+![Overnight Slumber](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber.png)
 
-![HTML](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-html.png)
+### Italics
 
-### HTML Italics
-
-![HTML Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-italics-html.png)
-
-### React
-
-![React](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-react.png)
-
-### React Italics
-
-![React Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-italics-react.png)
-
-### CSS
-
-![CSS](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-css.png)
-
-### CSS Italics
-
-![CSS Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-italics-css.png)
-
-### JSON
-
-![JSON](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-json.png)
+![Overnight Slumber Italics](https://raw.githubusercontent.com/cevr/overnight/master/screenshots/overnight-slumber-italics.png)

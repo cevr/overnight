@@ -351,7 +351,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -473,7 +473,7 @@
             "name": "Function name",
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#84bbf1",
+                "foreground": "#8EACE3",
                 "fontStyle": ""
             }
         },
@@ -768,7 +768,7 @@
             "name": "Punctuation Definition String",
             "scope": "punctuation.definintion.string",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -818,7 +818,7 @@
             "name": "Entity Name Function",
             "scope": ["entity.name.function"],
             "settings": {
-                "foreground": "#84bbf1",
+                "foreground": "#8EACE3",
                 "fontStyle": ""
             }
         },
@@ -876,7 +876,7 @@
             "name": "Support Function",
             "scope": "support.function",
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -935,7 +935,7 @@
             "name": "Meta Function Call",
             "scope": "meta.function-call",
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -1008,7 +1008,7 @@
             "name": "Bold",
             "scope": "bold",
             "settings": {
-                "foreground": "#a3c76e",
+                "foreground": "#c792ea",
                 "fontStyle": "bold"
             }
         },
@@ -1059,7 +1059,7 @@
             "name": "C# Classes & Storage types",
             "scope": ["entity.name.type.class.cs", "storage.type.cs"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -1115,28 +1115,28 @@
             "name": "Elixir Classes",
             "scope": ["source.elixir support.type.elixir", "source.elixir meta.module.elixir entity.name.class.elixir"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
             "name": "Elixir Functions",
             "scope": "source.elixir entity.name.function",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
             "name": "Elixir Constants",
             "scope": ["source.elixir constant.other.symbol.elixir", "source.elixir constant.other.keywords.elixir"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
             "name": "Elixir String Punctuations",
             "scope": "source.elixir punctuation.definition.string",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1146,7 +1146,7 @@
                 "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
             ],
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1236,7 +1236,7 @@
             "name": "Powershell Variables",
             "scope": ["variable.other.readwrite.powershell"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -1250,7 +1250,7 @@
             "name": "ID Attribute Name in HTML",
             "scope": "entity.other.attribute-name.id.html",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1477,7 +1477,7 @@
             "name": "Markdown Bold",
             "scope": "markup.bold.markdown",
             "settings": {
-                "foreground": "#a3c76e",
+                "foreground": "#c792ea",
                 "fontStyle": "bold"
             }
         },
@@ -1540,7 +1540,7 @@
             "name": "Markdown Inline Raw String",
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1568,14 +1568,14 @@
             "name": "PHP Global Variables",
             "scope": "variable.other.global.php",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
             "name": "Declaration Punctuation in PHP Global Variables",
             "scope": "variable.other.global.php punctuation.definition.variable",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1589,7 +1589,7 @@
             "name": "Python Function Parameter and Arguments",
             "scope": ["variable.parameter.function.python", "meta.function-call.arguments.python"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -1610,7 +1610,7 @@
             "name": "Decorator Functions in Python",
             "scope": "entity.name.function.decorator.python",
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1624,7 +1624,7 @@
             "name": "SCSS Variable",
             "scope": ["variable.scss", "variable.sass", "variable.parameter.url.scss", "variable.parameter.url.sass"],
             "settings": {
-                "foreground": "#a3c76e"
+                "foreground": "#c792ea"
             }
         },
         {
@@ -1722,14 +1722,14 @@
             "name": "TypeScript[React] Punctuation Decorators",
             "scope": ["meta.decorator punctuation.decorator.ts", "meta.decorator punctuation.decorator.tsx"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
             "name": "TypeScript[React] Punctuation Decorators",
             "scope": "meta.tag.js meta.jsx.children.tsx",
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
@@ -1779,7 +1779,7 @@
             "name": "TypeScript Method Declaration e.g. `constructor`",
             "scope": ["meta.method.declaration storage.type.ts", "meta.method.declaration storage.type.tsx"],
             "settings": {
-                "foreground": "#84bbf1"
+                "foreground": "#8EACE3"
             }
         },
         {
