@@ -2,9 +2,13 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.7.1]
+
+-   Updated README
+
 ## [1.7.0]
 
-- Modified template literal, tag and function colors
+-   Modified template literal, tag and function colors
 
 ## [1.6.0]
 
