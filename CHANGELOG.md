@@ -2,6 +2,9 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.7.2]
+- Fixed an issue where match highlighting and selection highlighting were the same color
+
 ## [1.7.1]
 
 -   Updated README
