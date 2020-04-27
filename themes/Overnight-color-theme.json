@@ -1491,6 +1491,18 @@
             }
         },
         {
+            "name": "Python Docstring",
+            "scope": [
+              "string.quoted.docstring.multi",
+              "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+              "string.quoted.docstring.multi.python punctuation.definition.string.end",
+              "string.quoted.docstring.multi.python constant.character.escape"
+            ],
+            "settings": {
+              "foreground": "#637777"
+            }
+        },
+        {
             "name": "Python Function Parameter and Arguments",
             "scope": ["variable.parameter.function.python", "meta.function-call.arguments.python"],
             "settings": {
