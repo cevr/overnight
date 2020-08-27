@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.8.0]
+- Normalized differences between Overnight Slumber's normal and italic version (should be the same just italicized)
+- `support.class` should now be highlighted
+
 ## [1.7.3]
 - Fixed an issue where match highlighting and selection highlighting were the same color
 - 1.7.2 was a failed publish
