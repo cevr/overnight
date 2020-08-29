@@ -1,6 +1,7 @@
 from collections import deque
 
 def topo(G, ind=None, Q=[1]):
+    """This is a docstring."""
     if ind == None:
         ind = [0] * (len(G) + 1) #this is a comment
         for u in G:
