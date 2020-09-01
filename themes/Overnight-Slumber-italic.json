@@ -409,7 +409,7 @@
       "name": "RegExp String",
       "scope": ["string.regexp", "string.regexp keyword.other"],
       "settings": {
-        "foreground": "#5ca7e4"
+        "foreground": "#7986E7"
       }
     },
     {
@@ -535,7 +535,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.class", "support.function"],
+      "scope": "support.class",
       "settings": {
         "foreground": "#8EACE3"
       }
@@ -816,14 +816,6 @@
       "name": "Variable Property Other object",
       "scope": ["variable.other.object.js"],
       "settings": {
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "Entity Name Function",
-      "scope": ["entity.name.function"],
-      "settings": {
-        "foreground": "#8EACE3",
         "fontStyle": ""
       }
     },

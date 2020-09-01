@@ -409,7 +409,7 @@
       "name": "RegExp String",
       "scope": ["string.regexp", "string.regexp keyword.other"],
       "settings": {
-        "foreground": "#5ca7e4"
+        "foreground": "#7986E7"
       }
     },
     {
@@ -445,8 +445,7 @@
         "storage.type.property.tsx"
       ],
       "settings": {
-        "foreground": "#ffa7c4",
-        "fontStyle": ""
+        "foreground": "#ffa7c4"
       }
     },
     {
@@ -535,7 +534,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.class"],
+      "scope": "support.class",
       "settings": {
         "foreground": "#8EACE3"
       }
@@ -567,16 +566,14 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": ""
+        "foreground": "#c792ea"
       }
     },
     {
       "name": "Keyword Operator Relational",
       "scope": "keyword.operator.relational",
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": ""
+        "foreground": "#c792ea"
       }
     },
     {
@@ -783,8 +780,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": ""
+        "foreground": "#c792ea"
       }
     },
     {
@@ -816,14 +812,6 @@
       }
     },
     {
-      "name": "Entity Name Function",
-      "scope": ["entity.name.function"],
-      "settings": {
-        "foreground": "#8EACE3",
-        "fontStyle": ""
-      }
-    },
-    {
       "name": "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
       "scope": [
         "keyword.control.flow.js",
@@ -843,7 +831,8 @@
         "keyword.control.from.tsx"
       ],
       "settings": {
-        "foreground": "#ffa7c4"
+        "foreground": "#ffa7c4",
+        "fontStyle": ""
       }
     },
     {
@@ -1201,7 +1190,8 @@
         "source.go keyword.control.go"
       ],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": ""
       }
     },
     {
@@ -1299,7 +1289,8 @@
       "name": "JavaScript Method Declaration e.g. `constructor`",
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
-        "foreground": "#ffa7c4"
+        "foreground": "#ffa7c4",
+        "fontStyle": ""
       }
     },
     {
@@ -1872,7 +1863,6 @@
         "punctuation.definintion.string",
         "punctuation",
         "variable.other.readwrite.js",
-        "storage.type",
         "source.css",
         "string.quoted"
       ],
