@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.8.4]
+
+- Unify colors (too many minute differences between colors)
+
 ## [1.8.3]
 
 - RegExp strings use same color as string template
