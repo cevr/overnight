@@ -2,6 +2,12 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.8.2]
+
+- Normalize differences between Overnight slumber normal and italic versions (again)
+- Make comments color a more blue hue (to match background)
+- fix `storage.type` not being italicized
+
 ## [1.8.1]
 
 - Add support for pyhton Docstrings
